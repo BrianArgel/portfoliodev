@@ -12,43 +12,43 @@ export const skills = [
     percentage: 90,
   },
   {
-    skill: "Blockchain",
-    percentage: 40,
-  },
-  {
-    skill: "Physics",
+    skill: "Php",
     percentage: 70,
   },
   {
-    skill: "Economics",
-    percentage: 70,
+    skill: "Python",
+    percentage: 60,
+  },
+  {
+    skill: "Hacking",
+    percentage: 90,
   },
   {
     skill: "Machine Learning",
-    percentage: 70,
+    percentage: 90,
   },
 ];
 
 export const experiences = [
   {
-    title: "Software developer at Microsoft",
+    title: "Software developer at Promocate",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem officiis fugiat vel animi aliquam inventore rem. Quo laudantium temporibus cupiditate. Aut?",
-    from: 2000,
-    to: 2005,
+    from: 2018,
+    to: 2019,
   },
   {
-    title: "Software developer at Google",
+    title: "Software developer at Home",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem officiis fugiat vel animi aliquam inventore rem. Quo laudantium temporibus cupiditate. Aut?",
-    from: 2005,
-    to: 2007,
+    from: 2019,
+    to: 2020,
   },
   {
-    title: "Software developer at SpaceX",
+    title: "Software developer at DeveloperMedia",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem officiis fugiat vel animi aliquam inventore rem. Quo laudantium temporibus cupiditate. Aut?",
-    from: 2010,
+    from: 2020,
   },
 ];
 
