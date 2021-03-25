@@ -5,11 +5,12 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <meta name="description" content="Ryan Ray Portfolio WEbsite" />
+          <meta name="description" content="Brian Argel Portfolio" />
           <link
             rel="stylesheet"
             href="https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.css"
           />
+          <title>DevBrian</title>
         </Head>
         <body>
           <Main />
