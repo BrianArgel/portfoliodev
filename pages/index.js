@@ -78,23 +78,18 @@ const Index = () => (
 
             <ul>
               {/* List Item Experience */}
-              {experiences.map(({ title, from, to }, index) => (
+              {experiences.map(({ title, from, description, to }, index) => (
                 <li key={index}>
                   <h3>{title}</h3>
                   <h5>
                     {from} {to ? `- ${to}` : "- current"}
                   </h5>
-                  <p>
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                    Sint excepturi ea explicabo. Illum suscipit illo, porro
-                    quisquam voluptatem officiis fugiat vel animi aliquam
-                    inventore rem. Quo laudantium temporibus cupiditate. Aut?
-                  </p>
+                  <p>{description}</p>
                 </li>
               ))}
             </ul>
             <Link href="/hireme">
-              <a className="btn btn-light">Know More</a>
+              <a className="btn btn-light">Download my Cv</a>
             </Link>
           </div>
         </div>

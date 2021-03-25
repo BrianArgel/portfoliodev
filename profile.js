@@ -33,14 +33,14 @@ export const experiences = [
   {
     title: "Software developer at Promocate",
     description:
-      "Company dedicated to the development of intelligent solutions for any company, my job was to implement the interfaces of the designer from prototype to code.HTML, CSS, JS, GIT, TDD",
+      "Company dedicated to the development of intelligent solutions for any company, my job was to implement the interfaces of the designer from prototype to code. HTML, CSS, JS, GIT, TDD",
     from: 2019,
     to: 2020,
   },
   {
     title: "Software developer at DeveloperMedia",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem officiis fugiat vel animi aliquam inventore rem. Quo laudantium temporibus cupiditate. Aut?",
+      "Startup of new technologies, my job is to create user interfaces with new technologies and backend and frontend integration, React, Next, Gatsby, Nuxt, Node Js, databases and non-relational technologies such as Mysql and Mongo.",
     from: 2020,
   },
 ];
