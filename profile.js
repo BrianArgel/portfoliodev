@@ -33,7 +33,7 @@ export const experiences = [
   {
     title: "Software developer at Promocate",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem officiis fugiat vel animi aliquam inventore rem. Quo laudantium temporibus cupiditate. Aut?",
+      "Company dedicated to the development of intelligent solutions for any company, my job was to implement the interfaces of the designer from prototype to code.HTML, CSS, JS, GIT, TDD",
     from: 2019,
     to: 2020,
   },

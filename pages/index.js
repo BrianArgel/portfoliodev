@@ -21,12 +21,17 @@ const Index = () => (
             <div className="col-md-8">
               <h1>DevBrian</h1>
               <h3>Full Stack Developer</h3>
-              <p>
-                Geek by nature I was always curiously interested in technology,
-                music, and gaming. I still remember when I was a kid and my
-                relatives used to ask me what I wanna do for the living which I
-                used to answer "study computers". I guess that sometimes the
-                dreams come true.{" "}
+              <p className="">
+                ✌ Hello, here is a small summary about me. As a child I was
+                always interested in new technologies and advances so much so
+                that my dream was to work for NASA but I discovered the love for
+                something more attractive and that I could put my ingenuity to
+                create any product it was amazing, it was not necessary to
+                invest money I just needed a lot I wanted to learn to create
+                products that could be worth 1 million dollars, then I
+                discovered that my dreams were to be a programmer. I discovered
+                it since I was a child, and here I am learning and improving
+                every day.
               </p>
               <Link href="/hireme">
                 <a className="btn btn-outline-light">Hire Me</a>
