@@ -34,13 +34,6 @@ export const experiences = [
     title: "Software developer at Promocate",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem officiis fugiat vel animi aliquam inventore rem. Quo laudantium temporibus cupiditate. Aut?",
-    from: 2018,
-    to: 2019,
-  },
-  {
-    title: "Software developer at Home",
-    description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem officiis fugiat vel animi aliquam inventore rem. Quo laudantium temporibus cupiditate. Aut?",
     from: 2019,
     to: 2020,
   },
