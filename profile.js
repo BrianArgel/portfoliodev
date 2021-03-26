@@ -47,37 +47,43 @@ export const experiences = [
 
 export const projects = [
   {
-    name: "Awesome Website 1",
+    name: "Platzi Swag",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
-    image: "portfolio1.jpeg",
+      "application created with Gatsby, a very powerful tool for creating static reacting sites using GraphQL",
+    image: "port2.png",
+    url: "https://github.com/BrianArgel/gatsby",
+    live: "https://gatsby-platzi-devbrian-git-main-brianargel.vercel.app/",
   },
   {
-    name: "Awesome Website 2",
+    name: "Avo app NextJs",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
-    image: "portfolio2.jpg",
+      "Avo application is a store type application created with next and Styled Components and typescript",
+    image: "port1.png",
+    url: "https://github.com/BrianArgel/avoplatzi",
+    live: "https://avoplatzi-brianargel.vercel.app/",
   },
   {
-    name: "Awesome Website 3",
+    name: "Crm React + Auth + Node",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
-    image: "portfolio3.png",
+      "Crm created with react, connected to an api with made with Node Js and contains authentication with jwt among other dependencies.",
+    image: "port3.jpg",
+    url: "https://github.com/BrianArgel/crmreact",
+    live: "tender-benz-b1000e.netlify.app",
   },
   {
-    name: "Awesome Website 4",
+    name: "Desing Figma UI/UX + Svelte",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
-    image: "portfolio4.png",
+      "Pointeri design an app created with Svelte and its Ui / Ux design",
+    image: "port3.png",
   },
   {
-    name: "Awesome Website 5",
+    name: "Website 5",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
     image: "portfolio5.jpeg",
   },
   {
-    name: "Awesome Website 6",
+    name: "Website 6",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
     image: "portfolio6.jpeg",

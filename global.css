@@ -17,7 +17,7 @@ div#__next > div {
 }
 
 .overflow .card-img-top:hover {
-  transform: scale(1.8);
+  transform: scale(1.1);
 }
 
 #nprogress .bar {
@@ -27,4 +27,18 @@ div#__next > div {
 #nprogress .spinner-icon {
   border-top-color: #ffbb00;
   border-left-color: #ffbb00;
+}
+.btn2 {
+  padding: 5px 25px;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+.btn2:hover,
+.btn2:link,
+.btn2:visited,
+.btn2:active {
+  text-decoration: none;
+  color: white;
+  background-color: teal;
 }

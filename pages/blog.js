@@ -22,7 +22,7 @@ const PostCard = ({ post }) => (
 
 const blog = () => {
   return (
-    <Layout title="My Blog" footer={false} dark>
+    <Layout title="My Blog Ramdon Posts" footer={false} dark>
       <div className="row">
         {posts.map((post, i) => (
           <PostCard post={post} key={i} />
