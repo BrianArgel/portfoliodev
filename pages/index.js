@@ -118,7 +118,7 @@ const Index = () => (
                       <div className="card-body">
                         <h3>{name}</h3>
                         <p>{description}</p>
-                        <a href={`${url ? url : ""} `} target="_black">
+                        <a href={`${url ? url : ""} `} target="_black ">
                           View code
                         </a>
 

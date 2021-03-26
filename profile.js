@@ -63,7 +63,7 @@ export const projects = [
     live: "https://avoplatzi-brianargel.vercel.app/",
   },
   {
-    name: "Crm React + Auth + Node",
+    name: "Crm React + Auth + Node ++",
     description:
       "Crm created with react, connected to an api with made with Node Js and contains authentication with jwt among other dependencies.",
     image: "port3.jpg",
