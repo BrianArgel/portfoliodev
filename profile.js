@@ -68,7 +68,7 @@ export const projects = [
       "Crm created with react, connected to an api with made with Node Js and contains authentication with jwt among other dependencies.",
     image: "port3.jpg",
     url: "https://github.com/BrianArgel/crmreact",
-    live: "tender-benz-b1000e.netlify.app",
+    live: "https://tender-benz-b1000e.netlify.app",
   },
   {
     name: "Desing Figma UI/UX + Svelte",
