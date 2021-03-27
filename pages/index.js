@@ -8,7 +8,7 @@ const Index = () => (
     {/* Header Card */}
     <header className="row">
       <div className="col-md-12">
-        <div className="card card-body bg-secondary text-light animate__animated animate__fadeIn">
+        <div className="card card-body bg-secondary text-light">
           <div className="row">
             <div className="col-md-4">
               <img
@@ -46,7 +46,7 @@ const Index = () => (
 
     <section className="row">
       <div className="col-md-4 py-2">
-        <div className="card bg-light animate__animated animate__fadeInLeft">
+        <div className="card bg-light">
           <div className="card-body">
             <h1>Skills</h1>
 
@@ -72,7 +72,7 @@ const Index = () => (
 
       <div className="col-md-8 py-2">
         {/* Experience */}
-        <div className="card bg-light animate__animated animate__fadeInRight">
+        <div className="card bg-light ">
           <div className="card-body">
             <h1>Experience</h1>
 
